@@ -17,4 +17,4 @@ apt install lynx -y
 echo -e "\e[1;33mInstalled 100%  ...\e[0m"
 sleep 5
 clear
-echo -e "\e[1;33mSetup Completed Now Run The Tool ./reconhond\e[0m"
+echo -e "\e[1;33mSetup Completed Now Run The Tool ./reconhound\e[0m"
